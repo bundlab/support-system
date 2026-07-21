@@ -1,0 +1,2 @@
+class SlaPolicy < ApplicationRecord
+end
