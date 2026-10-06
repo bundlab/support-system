@@ -9,7 +9,7 @@ ruby ">= 3.2.3"   # or your ruby version
 gem "rails", "~> 7.2"
 
 # The original database gem (keep this)
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.7"
 
 # Remove any second `gem 'pg'` line
 
